@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFE0hCRVvanrr5gs8/rotaMG/QSzGJnursNncix89MGR5NfdtY4/m5MDeD+DCRI9//44e8E5mnJCspupvoxzNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kanika\\source\\repos\\MyFirstWebApi\\MyFirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kanika\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
